@@ -1,11 +1,5 @@
 # Blockchain
 
-![image](https://user-images.githubusercontent.com/110497344/182488937-7910d8e6-95a5-4d4e-8588-d1a3a43f437f.png)
-
-![image](https://user-images.githubusercontent.com/110497344/182489040-96add4fc-1244-4f23-adae-aca041e07a60.png)
-
-
-
 Learning outcomes:
 
 	1	Understand the basic structure of blockchain technology
@@ -14,6 +8,11 @@ Learning outcomes:
 	4	Understand the basic idea of "work" which is used to guarantee the validity of cryptocurrencies like Bitcoin
 	5	Have a collection of code utilities for working with blockchain technology, and cryptography that can be applied to many applications
 	6	Have a rudimentary working knowledge of JSON
+
+![image](https://user-images.githubusercontent.com/110497344/182488937-7910d8e6-95a5-4d4e-8588-d1a3a43f437f.png)
+
+![image](https://user-images.githubusercontent.com/110497344/182489040-96add4fc-1244-4f23-adae-aca041e07a60.png)
+
 
 Checklist:
 
